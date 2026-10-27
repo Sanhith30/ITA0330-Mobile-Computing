@@ -1,6 +1,6 @@
 # Mobile Computing Lab — Figma Links
 
-1. [Experiment 1 — Basic Cellular System]()
+1. [Experiment 1 — Basic Cellular System](https://www.figma.com/design/Ox5dz01ibECuv35wCCJiXH/Basic-Cellular-System?node-id=0-1&t=oQXGorHww9dROGzd-1)
 2. [Experiment 2 — Mobile Station UI]()
 3. [Experiment 3 — Network Switching Subsystem Flowchart]()
 4. [Experiment 4 — Mobile Network Protocol Stack]()
