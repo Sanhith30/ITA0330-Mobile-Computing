@@ -11,7 +11,7 @@
 9. [Experiment 9 — GSM Service UI](https://www.figma.com/design/LrF09tsgw5i9TikZHI6yHZ/exp-9?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
 10. [Experiment 10 — Multiple Access Techniques](https://www.figma.com/design/YmPeeZv4J27lXzf7JR3b02/exp-10?node-id=1-4&t=N2xV2Vq6ojiXKPcm-1)
 11. [Experiment 11 — Secure Mobile App Wireframe](https://www.figma.com/design/BSsyZOHe9LjzixmSp8ZAak/exp-11?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
-12. [Experiment 12 — Evolution from 1G to 5G]()
+12. [Experiment 12 — Evolution from 1G to 5G](https://www.figma.com/design/TXsJHG34XdJPJHeTwxEEHf/exp-12?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
 13. [Experiment 13 — Mobile Communication vs Mobile Computing]()
 14. [Experiment 14 — GPRS Flowchart]()
 
