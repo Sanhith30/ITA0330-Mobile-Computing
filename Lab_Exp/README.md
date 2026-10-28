@@ -15,51 +15,7 @@
 13. [Experiment 13 — Mobile Communication vs Mobile Computing](https://www.figma.com/design/dwScZPe2hlXUTvYb8Ode1x/exp-13?t=N2xV2Vq6ojiXKPcm-1)
 14. [Experiment 14 — GPRS Flowchart](https://www.figma.com/design/F01OUxJ1mx9sd85nuvmJF7/exp-14?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- 
 15. [Experiment 15 — Ad Hoc Wireless Network App Wireframe]()
 16. [Experiment 16 — Network Performance Dashboard]()
 17. [Experiment 17 — Connection Drop Alert UI]()
