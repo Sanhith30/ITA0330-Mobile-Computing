@@ -7,7 +7,7 @@
 5. [Experiment 5 — Localization App Wireframe](https://www.figma.com/design/HxuTGfBLt0UBurJGvQmKhv/Experiment-5?node-id=0-1&t=GYFoJRfSDwOSUwNs-1)
 6. [Experiment 6 — Mobile Network Handoff](https://www.figma.com/design/iEfRIVjfci9N2lJggTFgXN/Untitled?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
 7. [Experiment 7 — Cellular System Performance Dashboard](https://www.figma.com/design/RSwfrMhH5n0Ey0PSSUtTRt/exp-7?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
-8. [Experiment 8 — PLMN Infographic]()
+8. [Experiment 8 — PLMN Infographic](https://www.figma.com/design/CO7rcvE2k0oplxfDCBUZRt/exp-8?node-id=0-1&t=N2xV2Vq6ojiXKPcm-1)
 9. [Experiment 9 — GSM Service UI]()
 10. [Experiment 10 — Multiple Access Techniques]()
 11. [Experiment 11 — Secure Mobile App Wireframe]()
