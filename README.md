@@ -9,6 +9,7 @@ outcome assignments, and laboratory experiment reports and design links.
 | --- | --- |
 | [`Assignments/`](Assignments/) | CO1–CO5 assignment submissions |
 | [`Lab_Exp/`](Lab_Exp/) | Mobile computing laboratory experiment reports and Figma links |
+| [`Capstone project/`](Capstone%20project/) | Smart Shield Wi-Fi: A Mobile Computing Framework for Intelligent Wi-Fi Trust Assessment |
 
 ## Assignments
 
@@ -19,6 +20,15 @@ outcome. See [`Assignments/README.md`](Assignments/README.md) for the index.
 
 The [`Lab_Exp/`](Lab_Exp/) folder contains experiments 1–14 as PDF reports and
 provides links to the associated Figma designs in its README.
+
+## Capstone Project
+
+The [`Capstone project/`](Capstone%20project/) folder contains the full Capstone Project:
+- **Title**: Smart Shield Wi-Fi: A Mobile Computing Framework for Intelligent Wi-Fi Trust Assessment
+- **Team**: T. Sanhith (192311228), P. Veeraswami (192311253), P. Jawed Khan (192311263)
+- **Course Faculty**: Dr. Meganathan Elumalai, Professor, SIMATS Engineering
+- **Deliverables**: Native Android App (`app`), Streamlit Dashboard (`streamlit_app.py`), Formatted Capstone Report (`.docx`), Presentation (`.pptx`), and Android Package (`.apk`).
+
 
 ## Notes
 
