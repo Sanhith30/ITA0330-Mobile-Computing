@@ -93,5 +93,5 @@ Complete experiment reports and Figma interactive design assets in [`Lab_Exp/`](
 ---
 
 <div align="center">
-  <sub>Maintained by T. Sanhith (Reg. No: 192311228) · Department of Information Technology · SIMATS Engineering</sub>
+  <sub>Maintained by T. Sanhith (Reg. No: 192311228) · Department of Computer Science · SIMATS Engineering</sub>
 </div>
