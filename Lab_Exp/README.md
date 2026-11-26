@@ -29,7 +29,7 @@ Interactive UI prototypes, cellular network architectures, protocol stacks, and 
 
 ## Part B: Python Simulation Experiments (Ex 16 – 21)
 
-Mathematical models and algorithmic simulations written in Python with NumPy and Matplotlib. Each experiment is organized in its own self-contained subfolder with its **PDF report**, **executable code**, and **simulation plots**:
+Mathematical models and algorithmic simulations written in Python with NumPy and Matplotlib:
 
 | Exp No | Dedicated Folder | Python Script | PDF Document | Output Description |
 |:------:|:-----------------|:--------------|:-------------|:-------------------|
@@ -44,18 +44,41 @@ Mathematical models and algorithmic simulations written in Python with NumPy and
 
 ## Part C: OMNeT++ & Wireshark Network Experiments (Ex 22 – 27)
 
-Multi-cell cellular simulations, Wireshark packet captures, and mobile ad hoc network evaluations. Each experiment contains **authentic software GUI application screenshots** (OMNeT++ Qtenv runtime canvas, Wireshark 3-pane packet dissector, and Analysis Tool IDE):
+Rebuilt using **actual student simulation screenshots** and step-by-step instructions from your uploaded report:
 
-| Exp No | Dedicated Folder | Config / Code Files | PDF Document | Software Simulation GUI Screenshot |
-|:------:|:-----------------|:--------------------|:-------------|:-----------------------------------|
-| **22** | [`Experiment 22/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/) | [`omnetpp.ini`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/omnetpp.ini) | [`Exp22.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/Exp22.pdf) | [`Figure_22_2_OMNeT_Qtenv_Simulation_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/Figure_22_2_OMNeT_Qtenv_Simulation_GUI.png) |
-| **23** | [`Experiment 23/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/) | [`cellular_analysis.sh`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/cellular_analysis.sh) | [`Exp23.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/Exp23.pdf) | [`Figure_23_1_Wireshark_S1AP_GTP_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/Figure_23_1_Wireshark_S1AP_GTP_GUI.png) |
-| **24** | [`Experiment 24/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/) | [`omnetpp.ini`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/omnetpp.ini) | [`Exp24.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/Exp24.pdf) | [`Figure_24_2_OMNeT_MobileIP_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/Figure_24_2_OMNeT_MobileIP_GUI.png) |
-| **25** | [`Experiment 25/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/) | [`omnetpp.ini`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/omnetpp.ini) | [`Exp25.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/Exp25.pdf) | [`Figure_25_1_OMNeT_MANET_AODV_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/Figure_25_1_OMNeT_MANET_AODV_GUI.png) |
-| **26** | [`Experiment 26/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/) | [`CaptureNet.ned`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/CaptureNet.ned), [`omnetpp.ini`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/omnetpp.ini) | [`Exp26.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/Exp26.pdf) | [`Figure_26_2_Wireshark_Capture_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/Figure_26_2_Wireshark_Capture_GUI.png) |
-| **27** | [`Experiment 27/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/) | [`omnetpp.ini`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/omnetpp.ini), [`analyse.py`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/analyse.py) | [`Exp27.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/Exp27.pdf) | [`Figure_27_2_OMNeT_AnalysisTool_GUI.png`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/Figure_27_2_OMNeT_AnalysisTool_GUI.png) |
+| Exp No | Dedicated Folder | PDF Document | Actual Output Screenshots Included |
+|:------:|:-----------------|:-------------|:-----------------------------------|
+| **22** | [`Experiment 22/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/) | [`Exp22.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2022/Exp22.pdf) | `exp22_actual_simulte_qtenv_topology.jpeg` (SimuLTE multi-cell topology with eNodeB1, eNodeB2, ue11, ue12, ue21, ue22, server) |
+| **23** | [`Experiment 23/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/) | [`Exp23.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2023/Exp23.pdf) | 8 Wireshark Screenshots: Protocol Hierarchy, GSM, GTP, S1AP, NGAP, SCTP Conversations, Flow Graph (Parts 1 & 2) |
+| **24** | [`Experiment 24/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/) | [`Exp24.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2024/Exp24.pdf) | 5 Step-by-Step Screenshots: `inet.4.7.0` tree, `ipv6` examples, `ipv6configurator`, configuration setup dialog, and live Qtenv run |
+| **25** | [`Experiment 25/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/) | [`Exp25.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2025/Exp25.pdf) | 2 Actual MANET Outputs (100 s): Figure 25.1 AODV run and Figure 25.2 DSDV run with routing visualization |
+| **26** | [`Experiment 26/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/) | [`Exp26.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2026/Exp26.pdf) | Figure 26.1 Completed CaptureNet simulation (20 s) & Figure 26.2 Wireshark ICMP Echo capture & dissection |
+| **27** | [`Experiment 27/`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/) | [`Exp27.pdf`](file:///D:/MC_Capstone/Lab_Exp/Experiment%2027/Exp27.pdf) | Mini Project: Cellular Performance Evaluation (Throughput, Delay, and Packet Loss vs UEs via `analyse.py`) |
 
 ---
+
+
+---
+
+## Part D: Ad Hoc Networks, Mobile Applications & MANET Simulation (Ex 28 – 40)
+
+Advanced wireless ad hoc network simulation, signal propagation modeling, live network telemetry, mobile application prototypes, test case execution, and OMNeT++ DYMO routing protocols:
+
+| Exp No | Dedicated Folder | Experiment Title | Tool / Technology | Source Code / Scripts | PDF Report | Key Artifacts & Output |
+|:------:|:-----------------|:-----------------|:------------------|:----------------------|:-----------|:-----------------------|
+| **28** | [Experiment 28/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2028/) | Basic Ad Hoc Network Simulation Using NS-2 | NS-2, Tcl, NAM, Ubuntu WSL | [dhoc.tcl](file:///D:/MC_Capstone/Lab_Exp/Experiment%2028/adhoc.tcl) | [Exp28.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2028/Exp28.pdf) | AODV 3-node simulation, trace log analysis, NAM Network Animator visualization |
+| **29** | [Experiment 29/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2029/) | Analyze Signal Strength Between Nodes in Simulated Environment | NS-2, Python 3, CSV | [signal.tcl](file:///D:/MC_Capstone/Lab_Exp/Experiment%2029/signal.tcl)<br/>[signal_analysis.py](file:///D:/MC_Capstone/Lab_Exp/Experiment%2029/signal_analysis.py) | [Exp29.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2029/Exp29.pdf) | TwoRayGround path loss modeling, received power decay (-45 to -88 dBm), CSV export |
+| **30** | [Experiment 30/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2030/) | Develop a Troubleshooting Flow for MANET Common Issues | Python 3, Ubuntu WSL | [	roubleshooting.py](file:///D:/MC_Capstone/Lab_Exp/Experiment%2030/troubleshooting.py) | [Exp30.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2030/Exp30.pdf) | 5 MANET fault diagnostics (Node comm, Routing, Packet loss, Weak signal, Congestion) |
+| **31** | [Experiment 31/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2031/) | Implement Live Chart to Monitor Network Throughput | Python, Matplotlib | [live_throughput.py](file:///D:/MC_Capstone/Lab_Exp/Experiment%2031/live_throughput.py) | [Exp31.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2031/Exp31.pdf) | Real-time animated Matplotlib GUI monitoring instantaneous throughput (Mbps vs Time) |
+| **32** | [Experiment 32/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2032/) | Analyze Latency Trends in Simulated Mobile Network | Python, NumPy, Matplotlib | [latency_analysis.py](file:///D:/MC_Capstone/Lab_Exp/Experiment%2032/latency_analysis.py) | [Exp32.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2032/Exp32.pdf) | Mobile latency variations, mean delay reference line, min/max statistical telemetry |
+| **33** | [Experiment 33/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2033/) | Design a Power-Saving Mode for the App | Figma | [Figma Design](https://www.figma.com/design/dPtxO3zXbzTEn3ZynVAyP0/Untitled?node-id=23-2&t=AeTJUhJZv07bA0u9-0) | [Exp33.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2033/Exp33.pdf) | Mobile power-saving UI, battery telemetry gauge, display dimming & sync restriction controls |
+| **34** | [Experiment 34/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2034/) | Design Authentication Feature to Secure Network Access | Figma | [Figma Design](https://www.figma.com/design/dPtxO3zXbzTEn3ZynVAyP0/Untitled?node-id=23-2&t=AeTJUhJZv07bA0u9-0) | [Exp34.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2034/Exp34.pdf) | Secure authentication UI, password visibility, 2FA/OTP verification, biometric login |
+| **35** | [Experiment 35/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2035/) | Create Feedback Mechanism Within the App for Suggestions | Figma | [Figma Design](https://www.figma.com/design/dPtxO3zXbzTEn3ZynVAyP0/Untitled?node-id=23-2&t=AeTJUhJZv07bA0u9-0) | [Exp35.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2035/Exp35.pdf) | In-app feedback UI, CSAT star rating scale, issue classification (Bug/Feature), ticket ID |
+| **36** | [Experiment 36/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2036/) | Develop Test Cases for the App\'s Alert System | HTML, JavaScript, Web Browser | [lert.html](file:///D:/MC_Capstone/Lab_Exp/Experiment%2036/alert.html) | [Exp36.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2036/Exp36.pdf) | Test matrix TC01–TC03 (Battery %, Signal dBm, Network ON/OFF), 100% pass verification |
+| **37** | [Experiment 37/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2037/) | Mobile App Retrieving and Displaying Web API Data | Flutter / Figma | [pi_app.dart](file:///D:/MC_Capstone/Lab_Exp/Experiment%2037/api_app.dart)<br/>[Figma](https://www.figma.com/design/bn0pkW0qvIa4nwkPTl8lSq/Untitled?node-id=0-1&p=f&t=Mav721b80FlIYuAp-0) | [Exp37.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2037/Exp37.pdf) | Asynchronous REST API client (JSONPlaceholder), JSON deserialization, Flutter ListView |
+| **38** | [Experiment 38/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2038/) | Design and Implement Offline Data Storage in Mobile App | Flutter / SharedPreferences / Figma | [offline_storage.dart](file:///D:/MC_Capstone/Lab_Exp/Experiment%2038/offline_storage.dart)<br/>[Figma](https://www.figma.com/design/5TcBoziZzQcapBteNiFrb8/Untitled?node-id=0-1&p=f&t=4VRx0Jul6QN1u2Dd-0) | [Exp38.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2038/Exp38.pdf) | Persistent offline key-value storage, offline mode resilience, persistent note management |
+| **39** | [Experiment 39/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2039/) | Simulate a MANET Using Network Simulation Tools | OMNeT++, INET 4.7.0, DYMO | [omnetpp.ini](file:///D:/MC_Capstone/Lab_Exp/Experiment%2039/omnetpp.ini) | [Exp39.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2039/Exp39.pdf) | 20-node DYMO reactive routing MANET simulation in Qtenv (IPv4 Run #0, 10 s) |
+| **40** | [Experiment 40/](file:///D:/MC_Capstone/Lab_Exp/Experiment%2040/) | Analyze MANET Performance Under Varying Network Loads | OMNeT++, INET 4.7.0, DYMO | [omnetpp.ini](file:///D:/MC_Capstone/Lab_Exp/Experiment%2040/omnetpp.ini)<br/>[load_analysis.py](file:///D:/MC_Capstone/Lab_Exp/Experiment%2040/load_analysis.py) | [Exp40.pdf](file:///D:/MC_Capstone/Lab_Exp/Experiment%2040/Exp40.pdf) | Low vs High traffic load comparison (Run #0 vs Run #1), 8.76x events and 8.47x messages |
 
 ## Combined Compilation Reports
 
